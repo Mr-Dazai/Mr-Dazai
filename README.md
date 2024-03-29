@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">👨‍💻 What I'm up to: Working at LoanCare as an Application Developer.<br><br>📚 Education: MS in Computer Science New Jersey Institute of Technology.<br><br>🤝 Connect with me:  sebin.joepaul@gmail.com<br><br>🌐 Visit my personal website: sebinjoepaul.com</p>
+<h4 align="center">👨‍💻 What I'm up to: Working at LoanCare as an Application Developer.<br><br>📚 Education: MS in Computer Science New Jersey Institute of Technology.<br><br>🤝 Connect with me:  sebin.joepaul@gmail.com<br><br>🌐 Visit my personal website: sebinjoepaul.com</h4>
 
 ###
 
